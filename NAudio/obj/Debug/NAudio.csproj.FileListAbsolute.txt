@@ -1,0 +1,13 @@
+Z:\dectalk\NAudio-master\NAudio\bin\Debug\NAudio.XML
+Z:\dectalk\NAudio-master\NAudio\bin\Debug\NAudio.dll
+Z:\dectalk\NAudio-master\NAudio\bin\Debug\NAudio.pdb
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.csprojResolveAssemblyReference.cache
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.Gui.Fader.resources
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.Gui.PanSlider.resources
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.Gui.Pot.resources
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.Gui.VolumeSlider.resources
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.Gui.WaveViewer.resources
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.Utils.ProgressLog.resources
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.csproj.GenerateResource.Cache
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.dll
+Z:\dectalk\NAudio-master\NAudio\obj\Debug\NAudio.pdb

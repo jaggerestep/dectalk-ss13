@@ -1,0 +1,9 @@
+E:\Moonbase Alpha Station\SharpTalk\bin\Release\lib\FonixTalk.dll
+E:\Moonbase Alpha Station\SharpTalk\bin\Release\lib\ftalk_us.dll
+E:\Moonbase Alpha Station\SharpTalk\bin\Release\lib\ftalk_us.dic
+E:\Moonbase Alpha Station\SharpTalk\bin\Release\SharpTalk.XML
+E:\Moonbase Alpha Station\SharpTalk\bin\Release\SharpTalk.dll
+E:\Moonbase Alpha Station\SharpTalk\bin\Release\SharpTalk.pdb
+E:\Moonbase Alpha Station\SharpTalk\obj\Release\SharpTalk.csprojResolveAssemblyReference.cache
+E:\Moonbase Alpha Station\SharpTalk\obj\Release\SharpTalk.dll
+E:\Moonbase Alpha Station\SharpTalk\obj\Release\SharpTalk.pdb
