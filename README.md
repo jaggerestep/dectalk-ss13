@@ -13,3 +13,4 @@ texttospeech.dm is my implementation, you can do it however you want and for wha
 
 You'll have to locate your own FonixTalk libraries because I cannot distribute them.
 
+writevoice-dll is a separate c++ project for writing to the voicequeue, you can use it, or implement some other sort of interface.
